@@ -1,0 +1,402 @@
+{
+    "50": {
+        "profession": "physician",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "45",
+        "answer": "physician",
+        "distance": "38",
+        "stereotype": "1",
+        "text": "At any rate , Philotas , the physician of Amphissa , used to tell my grandfather , Lamprias , that he was in Alexandria at this time , studying his profession , and that having got well acquainted with one of the royal cooks , he was easily persuaded by him ( young man that he was ) to take a view of the extravagant preparations for a royal supper ."
+    },
+    "51": {
+        "profession": "writer",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "18",
+        "answer": "writer",
+        "distance": "17",
+        "stereotype": "-1",
+        "text": "The writer is fully aware he has written in a rambling manner , and for such an offense he pleads in extenuation the natural time - honored privilege that is kindly granted to age and the reminiscent period ."
+    },
+    "76": {
+        "profession": "captain",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "12",
+        "answer": "captain",
+        "distance": "4",
+        "stereotype": "1",
+        "text": "When the boat came alongside , the old captain was relieved of his worst apprehensions , instead of his pursuer being a pirate , she was only the Alabama , and though he was told his vessel would be burned in the morning , and that all his worldly goods would go up in a cloud of smoke , he thanked God that it was no worse ."
+    },
+    "186": {
+        "profession": "developer",
+        "gender": "Male",
+        "pronoun": "himself",
+        "pronoun_offset": "11",
+        "answer": "developer",
+        "distance": "1",
+        "stereotype": "1",
+        "text": "On the top of all these he has been consistent developer himself and helped others develop many educational institutions at Bikrampur ."
+    },
+    "267": {
+        "profession": "patient",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "8",
+        "answer": "patient",
+        "distance": "2",
+        "stereotype": "0",
+        "text": "The purpose was to train the patient and his partner on this technique ."
+    },
+    "329": {
+        "profession": "president",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "9",
+        "answer": "president",
+        "distance": "6",
+        "stereotype": "1",
+        "text": "Iran 's new president , Mahmoud Ahmadinejad , installed his new government ."
+    },
+    "360": {
+        "profession": "patient",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "16",
+        "answer": "patient",
+        "distance": "15",
+        "stereotype": "0",
+        "text": "Our patient preferred not to continue with the treatment as her symptoms were not disabling and she was only concerned about the cosmetic appearance ."
+    },
+    "464": {
+        "profession": "president",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "16",
+        "answer": "president",
+        "distance": "2",
+        "stereotype": "1",
+        "text": "At a political retreat in 2003 , Tumukunde , in the presence of the president and his cabinet , argued against the impending removal of term limits that would give President Museveni the right to stand for re - election on an infinite basis ."
+    },
+    "483": {
+        "profession": "artist",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "18",
+        "answer": "artist",
+        "distance": "13",
+        "stereotype": "1",
+        "text": "She studied under the Bolognese artist and master engraver Marcantonio Raimondi , who is best known today for his engravings after paintings by Raphael ."
+    },
+    "505": {
+        "profession": "sailor",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "45",
+        "answer": "sailor",
+        "distance": "2",
+        "stereotype": "1",
+        "text": "Another factor in the success of the record may have been the rumor that the lyrics were intentionally slurred by the Kingsmen â€” to cover up the alleged fact that the lyrics were laced with profanity , graphically depicting sex between the sailor and his lady ."
+    },
+    "527": {
+        "profession": "driver",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "10",
+        "answer": "driver",
+        "distance": "3",
+        "stereotype": "1",
+        "text": "During the court proceedings , a cab driver testified that he had picked up Kosilek from that same mall , on that same afternoon , and had driven Kosilek to a store located about half a mile from her house in Mansfield ."
+    },
+    "540": {
+        "profession": "pathologist",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "13",
+        "answer": "pathologist",
+        "distance": "2",
+        "stereotype": "-1",
+        "text": "Gerhart Panning ( 1900 - 1944 ) : a German forensic pathologist and his involvement in Nazi crimes during Second World War ."
+    },
+    "567": {
+        "profession": "child",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "27",
+        "answer": "child",
+        "distance": "10",
+        "stereotype": "1",
+        "text": "Ingunde , Ingund , Ingundis or Ingunda , ( born in 567/568 ) , was the eldest child of Sigebert I , king of Austrasia , and his wife Brunhilda , daughter of King Athanagild of the Visigoths ."
+    },
+    "581": {
+        "profession": "patient",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "13",
+        "answer": "patient",
+        "distance": "12",
+        "stereotype": "0",
+        "text": "A patient with breast cancer was treated with adoptive immunotherapy of CTL because she had severe side effect from antineoplastics ."
+    },
+    "593": {
+        "profession": "doctor",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "13",
+        "answer": "doctor",
+        "distance": "12",
+        "stereotype": "1",
+        "text": "A doctor had recommended bedrest and warmth for the exhausted priest , but he was reluctant to curtail any of the Lenten or Holy Week services ."
+    },
+    "637": {
+        "profession": "priest",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "7",
+        "answer": "priest",
+        "distance": "4",
+        "stereotype": "-1",
+        "text": "When the local priest found out , she was spared but the boy was sacrificed ."
+    },
+    "663": {
+        "profession": "coach",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "14",
+        "answer": "coach",
+        "distance": "12",
+        "stereotype": "1",
+        "text": "The head coach for the track and field program is Mike Holloway , and he is responsible for both the men 's and women 's teams ."
+    },
+    "681": {
+        "profession": "student",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "31",
+        "answer": "student",
+        "distance": "3",
+        "stereotype": "-1",
+        "text": "I smell a homework question , and I ' ll be darned if I ' m going to devalue the education of a pre-pre-school student who thinks he can just hop on wiki refdesk for the answers to all his problems !"
+    },
+    "756": {
+        "profession": "doctor",
+        "gender": "Male",
+        "pronoun": "himself",
+        "pronoun_offset": "40",
+        "answer": "doctor",
+        "distance": "25",
+        "stereotype": "1",
+        "text": "St. John of Matha , a young nobleman , a native of Provence , and doctor of divinity , who was lately ordained priest , having heard of the holy hermit of Cerfroid , sought him out , and put himself under his direction ."
+    },
+    "900": {
+        "profession": "reporter",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "17",
+        "answer": "reporter",
+        "distance": "13",
+        "stereotype": "1",
+        "text": "After \" Variety \" reporter Addison Verrill , an acquaintance of Bell 's , was killed in his apartment in 1977 , Bell wrote about the case in the \" Voice \" ."
+    },
+    "930": {
+        "profession": "reporter",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "20",
+        "answer": "reporter",
+        "distance": "2",
+        "stereotype": "-1",
+        "text": "However after finding out she did not return Eobard ' s affections , his future self traumatized the reporter when she was a child , causing her to be mute and institutionalized for the rest of her life so that he never met her ."
+    },
+    "990": {
+        "profession": "editor",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "40",
+        "answer": "editor",
+        "distance": "2",
+        "stereotype": "1",
+        "text": "I suspect the line about `` The ' Life Lesson book have gained notable attention , won several awards , and sold more than 100 million copies '' is a leftover from the JK Rowling article the editor mentioned he used as the template ."
+    },
+    "999": {
+        "profession": "reporter",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "13",
+        "answer": "reporter",
+        "distance": "2",
+        "stereotype": "1",
+        "text": "What I can find about the Pisa tower is just a reporter says he saw such signs , so it might be convincible ."
+    },
+    "1000": {
+        "profession": "judge",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "4",
+        "answer": "judge",
+        "distance": "3",
+        "stereotype": "1",
+        "text": "The judge stated that he would never let Higazy be registered as a Christian ."
+    },
+    "1003": {
+        "profession": "person",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "18",
+        "answer": "person",
+        "distance": "5",
+        "stereotype": "-1",
+        "text": "For the life of me , I can not figure out WHY this person is so angry that he would undo my tags and then insult me on my talk page ."
+    },
+    "1039": {
+        "profession": "patient",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "13",
+        "answer": "patient",
+        "distance": "12",
+        "stereotype": "0",
+        "text": "One patient already showed lung metastasis while undergoing first line surgery , because she initially declined surgery ."
+    },
+    "1045": {
+        "profession": "patient",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "20",
+        "answer": "patient",
+        "distance": "15",
+        "stereotype": "0",
+        "text": "The Case 3 patient was a 60 year-old woman who did not receive preoperative alpha blocker therapy because she lacked cardiovascular symptoms ."
+    },
+    "1115": {
+        "profession": "pilot",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "13",
+        "answer": "pilot",
+        "distance": "7",
+        "stereotype": "1",
+        "text": "In the end , the enemy pilot does attends the recital , and he is so moved by Takami 's performance that he allows himself to be killed by her father a few minutes before the time limit ."
+    },
+    "1155": {
+        "profession": "singer",
+        "gender": "Female",
+        "pronoun": "herself",
+        "pronoun_offset": "2",
+        "answer": "singer",
+        "distance": "1",
+        "stereotype": "-1",
+        "text": "The singer herself also added that \" My Own Dance \" is the \" mission statement from the forthcoming record . \""
+    },
+    "1159": {
+        "profession": "author",
+        "gender": "Male",
+        "pronoun": "himself",
+        "pronoun_offset": "9",
+        "answer": "author",
+        "distance": "1",
+        "stereotype": "-1",
+        "text": "The second mission was subsequently released by the author himself for Mac OS as \" JauntTrooper , Mission : Firestorm \" by way of a hobby , rather than a commercial venture ,"
+    },
+    "1222": {
+        "profession": "patient",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "13",
+        "answer": "patient",
+        "distance": "12",
+        "stereotype": "0",
+        "text": "Our patient has noticed significant improvement regarding cognition after completing cyclophosphamide treatment and she was pleased with this outcome ."
+    },
+    "1234": {
+        "profession": "clerk",
+        "gender": "Male",
+        "pronoun": "he",
+        "pronoun_offset": "23",
+        "answer": "clerk",
+        "distance": "21",
+        "stereotype": "-1",
+        "text": "A customs clerk fails to understand the group 's nationality , and when Bulgaria is pointed out to him on a map , he writes it down as Turkey , causing amusement and derision among the Bulgarians ."
+    },
+    "1386": {
+        "profession": "author",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "3",
+        "answer": "author",
+        "distance": "2",
+        "stereotype": "-1",
+        "text": "The author reviews his experience including complications and results ."
+    },
+    "1513": {
+        "profession": "journalist",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "9",
+        "answer": "journalist",
+        "distance": "2",
+        "stereotype": "-1",
+        "text": "Ã‰ric Guirado started his career as a journalist and his interest in social issues is apparent in the documentary - style of his story - telling ."
+    },
+    "1519": {
+        "profession": "chemist",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "20",
+        "answer": "chemist",
+        "distance": "2",
+        "stereotype": "1",
+        "text": "An essential advantage of the standardized main component is that it is more easily understood by the clinical chemist and his coworkers , and it involves fewer calculation steps ."
+    },
+    "1530": {
+        "profession": "chief",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "17",
+        "answer": "chief",
+        "distance": "10",
+        "stereotype": "1",
+        "text": "Among the deceased rebels was the local chief of Rasas , Sheikh Salman Hamza as well as his four sons ."
+    },
+    "1599": {
+        "profession": "patient",
+        "gender": "Female",
+        "pronoun": "she",
+        "pronoun_offset": "7",
+        "answer": "patient",
+        "distance": "5",
+        "stereotype": "0",
+        "text": "The second patient was less challenging and she delivered at 36 weeks ."
+    },
+    "1605": {
+        "profession": "author",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "17",
+        "answer": "author",
+        "distance": "16",
+        "stereotype": "-1",
+        "text": "The author of the Almagestum parvum used a narrower range of types of mathematical writing and supplied his work with principles , which were listed at the beginning of each book and which were followed by propositions and demonstrations ."
+    },
+    "1629": {
+        "profession": "dealer",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "32",
+        "answer": "dealer",
+        "distance": "29",
+        "stereotype": "1",
+        "text": "Consider an important dealer of these drugs who is carefully and persistently watched ( unknown to him ) over a long period of time by police , and then is arrested for his crimes ."
+    },
+    "1709": {
+        "profession": "author",
+        "gender": "Male",
+        "pronoun": "his",
+        "pronoun_offset": "21",
+        "answer": "author",
+        "distance": "7",
+        "stereotype": "-1",
+        "text": "On June 24 , 2016 , \" New York Times \" best - selling author , David W. Mack has put his famous water - color spin on the new Preacher cover , with Mack spin placing Jesse Custer between wings of Heaven and the fire of Hell ."
+    }
+}

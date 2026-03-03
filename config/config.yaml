@@ -1,0 +1,41 @@
+root:
+
+modelConfig:
+  GPT:
+    key: sk-15sJqIBcfVXyKuHf47E25d859d854cFcAfF8E4B3756bFcB1
+    api: https://api.gpts.vin/v1
+  GPT3.5: gpt-3.5-turbo-0125
+  GPT4: gpt-4-1106-preview
+  Llama3: /home/qhy/QAExpt/models/Meta-Llama-3-8B-Instruct
+  Llama2Alpaca: models/Alpaca_llama-2-naive-7b-hf
+  Llama2Alpaca-dpo: models/llama-2_align_dpo
+  Qwen2-vl:
+  Llava1.5:
+  InstructBLIP:
+
+datasetsConfig:
+   winobias:
+     dev:
+     test:
+   winogender:
+     dev:
+     test:
+   GAP:
+     dev:
+     test:
+   BUG:
+     dev:
+     test:
+   BBQ:
+     dev:
+     test:
+   StereoSet:
+     dev:
+     test:
+   UnQover:
+     dev:
+     test:
+
+promptConfig:
+  DRGAPTemplatePath: config/DRGAPTemplate.json
+  QueryTemplatePath: config/QueryTemplate.json

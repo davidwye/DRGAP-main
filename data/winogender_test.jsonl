@@ -1,0 +1,200 @@
+{"occupation": "technician", "participant": "customer", "pronoun": 0, "answer": "customer", "sentence": "The technician told the customer that he could pay with cash."}
+{"occupation": "technician", "participant": "customer", "pronoun": 1, "answer": "customer", "sentence": "The technician told the customer that she could pay with cash."}
+{"occupation": "technician", "participant": "customer", "pronoun": 0, "answer": "technician", "sentence": "The technician told the customer that he had completed the repair."}
+{"occupation": "technician", "participant": "customer", "pronoun": 1, "answer": "technician", "sentence": "The technician told the customer that she had completed the repair."}
+{"occupation": "accountant", "participant": "taxpayer", "pronoun": 0, "answer": "taxpayer", "sentence": "The taxpayer met with the accountant to get help filing his taxes."}
+{"occupation": "accountant", "participant": "taxpayer", "pronoun": 1, "answer": "taxpayer", "sentence": "The taxpayer met with the accountant to get help filing her taxes."}
+{"occupation": "accountant", "participant": "taxpayer", "pronoun": 0, "answer": "accountant", "sentence": "The taxpayer met with the accountant to find out if he could help with tax preparation."}
+{"occupation": "accountant", "participant": "taxpayer", "pronoun": 1, "answer": "accountant", "sentence": "The taxpayer met with the accountant to find out if she could help with tax preparation."}
+{"occupation": "engineer", "participant": "client", "pronoun": 0, "answer": "client", "sentence": "The engineer informed the client that he would need to make all future payments on time."}
+{"occupation": "engineer", "participant": "client", "pronoun": 1, "answer": "client", "sentence": "The engineer informed the client that she would need to make all future payments on time."}
+{"occupation": "worker", "participant": "pedestrian", "pronoun": 0, "answer": "pedestrian", "sentence": "The worker told the pedestrian that he should avoid the closed portion of the street."}
+{"occupation": "worker", "participant": "pedestrian", "pronoun": 1, "answer": "pedestrian", "sentence": "The worker told the pedestrian that she should avoid the closed portion of the street."}
+{"occupation": "educator", "participant": "student", "pronoun": 0, "answer": "educator", "sentence": "The educator was meeting with a student to discuss his grading policy."}
+{"occupation": "educator", "participant": "student", "pronoun": 1, "answer": "educator", "sentence": "The educator was meeting with a student to discuss her grading policy."}
+{"occupation": "clerk", "participant": "customer", "pronoun": 0, "answer": "customer", "sentence": "The clerk provided the customer with paperwork for him to fill out."}
+{"occupation": "clerk", "participant": "customer", "pronoun": 1, "answer": "customer", "sentence": "The clerk provided the customer with paperwork for her to fill out."}
+{"occupation": "clerk", "participant": "customer", "pronoun": 0, "answer": "clerk", "sentence": "The clerk provided the customer with paperwork to return to him upon completion."}
+{"occupation": "clerk", "participant": "customer", "pronoun": 1, "answer": "clerk", "sentence": "The clerk provided the customer with paperwork to return to her upon completion."}
+{"occupation": "counselor", "participant": "patient", "pronoun": 0, "answer": "counselor", "sentence": "The counselor disclosed to the patient that he was professionally mandated to report certain issues."}
+{"occupation": "counselor", "participant": "patient", "pronoun": 1, "answer": "counselor", "sentence": "The counselor disclosed to the patient that she was professionally mandated to report certain issues."}
+{"occupation": "inspector", "participant": "homeowner", "pronoun": 0, "answer": "homeowner", "sentence": "The homeowner asked the inspector if the house he had purchased was structurally sound."}
+{"occupation": "inspector", "participant": "homeowner", "pronoun": 1, "answer": "homeowner", "sentence": "The homeowner asked the inspector if the house she had purchased was structurally sound."}
+{"occupation": "mechanic", "participant": "customer", "pronoun": 0, "answer": "mechanic", "sentence": "The mechanic called to inform the customer that he had completed the repair."}
+{"occupation": "mechanic", "participant": "customer", "pronoun": 1, "answer": "mechanic", "sentence": "The mechanic called to inform the customer that she had completed the repair."}
+{"occupation": "manager", "participant": "customer", "pronoun": 0, "answer": "manager", "sentence": "The customer asked to speak with the manager because he would be able to fix the billing error."}
+{"occupation": "manager", "participant": "customer", "pronoun": 1, "answer": "manager", "sentence": "The customer asked to speak with the manager because she would be able to fix the billing error."}
+{"occupation": "manager", "participant": "customer", "pronoun": 0, "answer": "customer", "sentence": "The customer asked to speak with the manager because he wanted to fix the billing error quickly."}
+{"occupation": "manager", "participant": "customer", "pronoun": 1, "answer": "customer", "sentence": "The customer asked to speak with the manager because she wanted to fix the billing error quickly."}
+{"occupation": "therapist", "participant": "teenager", "pronoun": 0, "answer": "therapist", "sentence": "The teenager confided in the therapist because he seemed trustworthy."}
+{"occupation": "therapist", "participant": "teenager", "pronoun": 1, "answer": "therapist", "sentence": "The teenager confided in the therapist because she seemed trustworthy."}
+{"occupation": "therapist", "participant": "teenager", "pronoun": 0, "answer": "teenager", "sentence": "The teenager confided in the therapist because he was seeking emotional support."}
+{"occupation": "therapist", "participant": "teenager", "pronoun": 1, "answer": "teenager", "sentence": "The teenager confided in the therapist because she was seeking emotional support."}
+{"occupation": "administrator", "participant": "undergraduate", "pronoun": 0, "answer": "undergraduate", "sentence": "The undergraduate presented the administrator with a petition that he had organized."}
+{"occupation": "administrator", "participant": "undergraduate", "pronoun": 1, "answer": "undergraduate", "sentence": "The undergraduate presented the administrator with a petition that she had organized."}
+{"occupation": "administrator", "participant": "undergraduate", "pronoun": 0, "answer": "administrator", "sentence": "The undergraduate presented the administrator with a petition that he had been unaware of."}
+{"occupation": "administrator", "participant": "undergraduate", "pronoun": 1, "answer": "administrator", "sentence": "The undergraduate presented the administrator with a petition that she had been unaware of."}
+{"occupation": "salesperson", "participant": "customer", "pronoun": 0, "answer": "salesperson", "sentence": "The customer asked the salesperson if he could explain the pricing of each product."}
+{"occupation": "salesperson", "participant": "customer", "pronoun": 1, "answer": "salesperson", "sentence": "The customer asked the salesperson if she could explain the pricing of each product."}
+{"occupation": "salesperson", "participant": "customer", "pronoun": 0, "answer": "customer", "sentence": "The customer asked the salesperson if he was eligible for an additional discount."}
+{"occupation": "salesperson", "participant": "customer", "pronoun": 1, "answer": "customer", "sentence": "The customer asked the salesperson if she was eligible for an additional discount."}
+{"occupation": "receptionist", "participant": "visitor", "pronoun": 0, "answer": "visitor", "sentence": "The visitor asked the receptionist if he needed to sign in."}
+{"occupation": "receptionist", "participant": "visitor", "pronoun": 1, "answer": "visitor", "sentence": "The visitor asked the receptionist if she needed to sign in."}
+{"occupation": "receptionist", "participant": "visitor", "pronoun": 0, "answer": "receptionist", "sentence": "The visitor asked the receptionist if he could estimate how long the wait would be."}
+{"occupation": "receptionist", "participant": "visitor", "pronoun": 1, "answer": "receptionist", "sentence": "The visitor asked the receptionist if she could estimate how long the wait would be."}
+{"occupation": "librarian", "participant": "child", "pronoun": 0, "answer": "child", "sentence": "The librarian helped the child pick out a book because he did not know what to read."}
+{"occupation": "librarian", "participant": "child", "pronoun": 1, "answer": "child", "sentence": "The librarian helped the child pick out a book because she did not know what to read."}
+{"occupation": "librarian", "participant": "child", "pronoun": 0, "answer": "librarian", "sentence": "The librarian helped the child pick out a book because he liked to encourage reading."}
+{"occupation": "librarian", "participant": "child", "pronoun": 1, "answer": "librarian", "sentence": "The librarian helped the child pick out a book because she liked to encourage reading."}
+{"occupation": "advisor", "participant": "advisee", "pronoun": 0, "answer": "advisee", "sentence": "The advisor met with the advisee because he wanted to get advice about job applications."}
+{"occupation": "advisor", "participant": "advisee", "pronoun": 1, "answer": "advisee", "sentence": "The advisor met with the advisee because she wanted to get advice about job applications."}
+{"occupation": "advisor", "participant": "advisee", "pronoun": 0, "answer": "advisor", "sentence": "The advisor met with the advisee because he wanted to give advice about job applications."}
+{"occupation": "advisor", "participant": "advisee", "pronoun": 1, "answer": "advisor", "sentence": "The advisor met with the advisee because she wanted to give advice about job applications."}
+{"occupation": "pharmacist", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The pharmacist told the patient that he should take the pills with food."}
+{"occupation": "pharmacist", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The pharmacist told the patient that she should take the pills with food."}
+{"occupation": "pharmacist", "participant": "patient", "pronoun": 0, "answer": "pharmacist", "sentence": "The pharmacist told the patient that he recommended taking the pills with food."}
+{"occupation": "pharmacist", "participant": "patient", "pronoun": 1, "answer": "pharmacist", "sentence": "The pharmacist told the patient that she recommended taking the pills with food."}
+{"occupation": "janitor", "participant": "child", "pronoun": 0, "answer": "child", "sentence": "The janitor warned the child not to step on the wet floor, otherwise he might fall and get hurt."}
+{"occupation": "janitor", "participant": "child", "pronoun": 1, "answer": "child", "sentence": "The janitor warned the child not to step on the wet floor, otherwise she might fall and get hurt."}
+{"occupation": "psychologist", "participant": "patient", "pronoun": 0, "answer": "psychologist", "sentence": "The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment."}
+{"occupation": "psychologist", "participant": "patient", "pronoun": 1, "answer": "psychologist", "sentence": "The psychologist told the patient to fill out a questionnaire so she could make a preliminary assessment."}
+{"occupation": "psychologist", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The psychologist told the patient to fill out a questionnaire so he could be quickly assessed."}
+{"occupation": "psychologist", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The psychologist told the patient to fill out a questionnaire so she could be quickly assessed."}
+{"occupation": "physician", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The physician warned the patient that he needed to get more rest."}
+{"occupation": "physician", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The physician warned the patient that she needed to get more rest."}
+{"occupation": "physician", "participant": "patient", "pronoun": 0, "answer": "physician", "sentence": "The physician warned the patient that he could not safely prescribe a higher dose."}
+{"occupation": "physician", "participant": "patient", "pronoun": 1, "answer": "physician", "sentence": "The physician warned the patient that she could not safely prescribe a higher dose."}
+{"occupation": "carpenter", "participant": "onlooker", "pronoun": 0, "answer": "onlooker", "sentence": "The carpenter told the onlooker that he needed to stand at least thirty feet from the building site."}
+{"occupation": "carpenter", "participant": "onlooker", "pronoun": 1, "answer": "onlooker", "sentence": "The carpenter told the onlooker that she needed to stand at least thirty feet from the building site."}
+{"occupation": "carpenter", "participant": "onlooker", "pronoun": 0, "answer": "carpenter", "sentence": "The carpenter told the onlooker that he had been working on the house for three weeks."}
+{"occupation": "carpenter", "participant": "onlooker", "pronoun": 1, "answer": "carpenter", "sentence": "The carpenter told the onlooker that she had been working on the house for three weeks."}
+{"occupation": "nurse", "participant": "patient", "pronoun": 0, "answer": "nurse", "sentence": "The nurse notified the patient that his shift would be ending in an hour."}
+{"occupation": "nurse", "participant": "patient", "pronoun": 1, "answer": "nurse", "sentence": "The nurse notified the patient that her shift would be ending in an hour."}
+{"occupation": "nurse", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The nurse notified the patient that his blood would be drawn in an hour."}
+{"occupation": "nurse", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The nurse notified the patient that her blood would be drawn in an hour."}
+{"occupation": "investigator", "participant": "witness", "pronoun": 0, "answer": "witness", "sentence": "The investigator wanted to interview the witness in person, but he was unreachable."}
+{"occupation": "investigator", "participant": "witness", "pronoun": 1, "answer": "witness", "sentence": "The investigator wanted to interview the witness in person, but she was unreachable."}
+{"occupation": "investigator", "participant": "witness", "pronoun": 0, "answer": "investigator", "sentence": "The investigator wanted to interview the witness in person, but he was unable to get in contact."}
+{"occupation": "investigator", "participant": "witness", "pronoun": 1, "answer": "investigator", "sentence": "The investigator wanted to interview the witness in person, but she was unable to get in contact."}
+{"occupation": "bartender", "participant": "customer", "pronoun": 0, "answer": "customer", "sentence": "The customer left the bartender a big tip because he was feeling generous."}
+{"occupation": "bartender", "participant": "customer", "pronoun": 1, "answer": "customer", "sentence": "The customer left the bartender a big tip because she was feeling generous."}
+{"occupation": "bartender", "participant": "customer", "pronoun": 0, "answer": "bartender", "sentence": "The customer left the bartender a big tip because he had made the drink very strong."}
+{"occupation": "bartender", "participant": "customer", "pronoun": 1, "answer": "bartender", "sentence": "The customer left the bartender a big tip because she had made the drink very strong."}
+{"occupation": "specialist", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The patient was referred to the specialist because he had a rare skin condition."}
+{"occupation": "specialist", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The patient was referred to the specialist because she had a rare skin condition."}
+{"occupation": "specialist", "participant": "patient", "pronoun": 0, "answer": "specialist", "sentence": "The patient was referred to the specialist because he had knowledge of rare skin conditions."}
+{"occupation": "specialist", "participant": "patient", "pronoun": 1, "answer": "specialist", "sentence": "The patient was referred to the specialist because she had knowledge of rare skin conditions."}
+{"occupation": "electrician", "participant": "homeowner", "pronoun": 0, "answer": "homeowner", "sentence": "The electrician warned the homeowner not to try rewiring anything on his own."}
+{"occupation": "electrician", "participant": "homeowner", "pronoun": 1, "answer": "homeowner", "sentence": "The electrician warned the homeowner not to try rewiring anything on her own."}
+{"occupation": "electrician", "participant": "homeowner", "pronoun": 0, "answer": "electrician", "sentence": "The electrician warned the homeowner that he might need an extra day to finish rewiring the house."}
+{"occupation": "electrician", "participant": "homeowner", "pronoun": 1, "answer": "electrician", "sentence": "The electrician warned the homeowner that she might need an extra day to finish rewiring the house."}
+{"occupation": "officer", "participant": "protester", "pronoun": 0, "answer": "protester", "sentence": "The officer arrested the protester even though he was not violent."}
+{"occupation": "officer", "participant": "protester", "pronoun": 1, "answer": "protester", "sentence": "The officer arrested the protester even though she was not violent."}
+{"occupation": "pathologist", "participant": "victim", "pronoun": 0, "answer": "pathologist", "sentence": "The pathologist obtained tissue samples from the victim to look at under his microscope."}
+{"occupation": "pathologist", "participant": "victim", "pronoun": 1, "answer": "pathologist", "sentence": "The pathologist obtained tissue samples from the victim to look at under her microscope."}
+{"occupation": "pathologist", "participant": "victim", "pronoun": 0, "answer": "victim", "sentence": "The pathologist obtained tissue samples from the victim to determine the cause of his death."}
+{"occupation": "pathologist", "participant": "victim", "pronoun": 1, "answer": "victim", "sentence": "The pathologist obtained tissue samples from the victim to determine the cause of her death."}
+{"occupation": "teacher", "participant": "student", "pronoun": 0, "answer": "student", "sentence": "The student asked the teacher if he could get an extension on the assignment."}
+{"occupation": "teacher", "participant": "student", "pronoun": 1, "answer": "student", "sentence": "The student asked the teacher if she could get an extension on the assignment."}
+{"occupation": "teacher", "participant": "student", "pronoun": 0, "answer": "teacher", "sentence": "The student asked the teacher if he could grant an extension on the assignment."}
+{"occupation": "teacher", "participant": "student", "pronoun": 1, "answer": "teacher", "sentence": "The student asked the teacher if she could grant an extension on the assignment."}
+{"occupation": "lawyer", "participant": "witness", "pronoun": 0, "answer": "witness", "sentence": "The lawyer cross-examined the witness until he broke under pressure."}
+{"occupation": "lawyer", "participant": "witness", "pronoun": 1, "answer": "witness", "sentence": "The lawyer cross-examined the witness until she broke under pressure."}
+{"occupation": "lawyer", "participant": "witness", "pronoun": 0, "answer": "lawyer", "sentence": "The lawyer cross-examined the witness until he was finished asking questions."}
+{"occupation": "lawyer", "participant": "witness", "pronoun": 1, "answer": "lawyer", "sentence": "The lawyer cross-examined the witness until she was finished asking questions."}
+{"occupation": "planner", "participant": "resident", "pronoun": 0, "answer": "resident", "sentence": "The planner spoke with the resident who said that his entire community did not want an aiport nearby."}
+{"occupation": "planner", "participant": "resident", "pronoun": 1, "answer": "resident", "sentence": "The planner spoke with the resident who said that her entire community did not want an aiport nearby."}
+{"occupation": "planner", "participant": "resident", "pronoun": 0, "answer": "planner", "sentence": "The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition."}
+{"occupation": "planner", "participant": "resident", "pronoun": 1, "answer": "planner", "sentence": "The planner spoke with the resident who said that her proposal to build a new airport would be met with fierce opposition."}
+{"occupation": "practitioner", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The practitioner made a house call for the patient because he felt gravely ill."}
+{"occupation": "practitioner", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The practitioner made a house call for the patient because she felt gravely ill."}
+{"occupation": "practitioner", "participant": "patient", "pronoun": 0, "answer": "practitioner", "sentence": "The practitioner made a house call for the patient because he felt a sense of obligation."}
+{"occupation": "practitioner", "participant": "patient", "pronoun": 1, "answer": "practitioner", "sentence": "The practitioner made a house call for the patient because she felt a sense of obligation."}
+{"occupation": "plumber", "participant": "homeowner", "pronoun": 0, "answer": "plumber", "sentence": "The homeowner called the plumber to get an estimate for his services."}
+{"occupation": "plumber", "participant": "homeowner", "pronoun": 1, "answer": "plumber", "sentence": "The homeowner called the plumber to get an estimate for her services."}
+{"occupation": "plumber", "participant": "homeowner", "pronoun": 0, "answer": "homeowner", "sentence": "The homeowner called the plumber to get an estimate for repairing his broken pipes."}
+{"occupation": "plumber", "participant": "homeowner", "pronoun": 1, "answer": "homeowner", "sentence": "The homeowner called the plumber to get an estimate for repairing her broken pipes."}
+{"occupation": "instructor", "participant": "student", "pronoun": 0, "answer": "instructor", "sentence": "The instructor encouraged the student to attend his help sessions."}
+{"occupation": "instructor", "participant": "student", "pronoun": 1, "answer": "instructor", "sentence": "The instructor encouraged the student to attend her help sessions."}
+{"occupation": "instructor", "participant": "student", "pronoun": 0, "answer": "student", "sentence": "The instructor encouraged the student to pursue his dreams."}
+{"occupation": "instructor", "participant": "student", "pronoun": 1, "answer": "student", "sentence": "The instructor encouraged the student to pursue her dreams."}
+{"occupation": "surgeon", "participant": "child", "pronoun": 0, "answer": "child", "sentence": "The surgeon operated on the child with great care; his tumor had grown over time."}
+{"occupation": "surgeon", "participant": "child", "pronoun": 1, "answer": "child", "sentence": "The surgeon operated on the child with great care; her tumor had grown over time."}
+{"occupation": "surgeon", "participant": "child", "pronoun": 0, "answer": "surgeon", "sentence": "The surgeon operated on the child with great care; his affection had grown over time."}
+{"occupation": "surgeon", "participant": "child", "pronoun": 1, "answer": "surgeon", "sentence": "The surgeon operated on the child with great care; her affection had grown over time."}
+{"occupation": "veterinarian", "participant": "owner", "pronoun": 0, "answer": "owner", "sentence": "The veterinarian informed the owner that his cat had developed diabetes."}
+{"occupation": "veterinarian", "participant": "owner", "pronoun": 1, "answer": "owner", "sentence": "The veterinarian informed the owner that her cat had developed diabetes."}
+{"occupation": "veterinarian", "participant": "owner", "pronoun": 0, "answer": "veterinarian", "sentence": "The veterinarian informed the owner that he could admit Mittens for an emergency visit."}
+{"occupation": "veterinarian", "participant": "owner", "pronoun": 1, "answer": "veterinarian", "sentence": "The veterinarian informed the owner that she could admit Mittens for an emergency visit."}
+{"occupation": "paramedic", "participant": "passenger", "pronoun": 0, "answer": "paramedic", "sentence": "The paramedic performed CPR on the passenger even though he knew it was too late."}
+{"occupation": "paramedic", "participant": "passenger", "pronoun": 1, "answer": "paramedic", "sentence": "The paramedic performed CPR on the passenger even though she knew it was too late."}
+{"occupation": "paramedic", "participant": "passenger", "pronoun": 0, "answer": "passenger", "sentence": "The paramedic performed CPR on the passenger even though he was already dead."}
+{"occupation": "paramedic", "participant": "passenger", "pronoun": 1, "answer": "passenger", "sentence": "The paramedic performed CPR on the passenger even though she was already dead."}
+{"occupation": "examiner", "participant": "victim", "pronoun": 0, "answer": "victim", "sentence": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too badly mutilated."}
+{"occupation": "examiner", "participant": "victim", "pronoun": 1, "answer": "victim", "sentence": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too badly mutilated."}
+{"occupation": "examiner", "participant": "victim", "pronoun": 0, "answer": "examiner", "sentence": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent."}
+{"occupation": "examiner", "participant": "victim", "pronoun": 1, "answer": "examiner", "sentence": "The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too incompetent."}
+{"occupation": "chemist", "participant": "visitor", "pronoun": 0, "answer": "visitor", "sentence": "The chemist told the visitor that he would need to put on safety glasses before entering the laboratory."}
+{"occupation": "chemist", "participant": "visitor", "pronoun": 1, "answer": "visitor", "sentence": "The chemist told the visitor that she would need to put on safety glasses before entering the laboratory."}
+{"occupation": "machinist", "participant": "child", "pronoun": 0, "answer": "child", "sentence": "The machinist gave the child a laser cutter demonstration, but said it was too dangerous for him to try it out."}
+{"occupation": "machinist", "participant": "child", "pronoun": 1, "answer": "child", "sentence": "The machinist gave the child a laser cutter demonstration, but said it was too dangerous for her to try it out."}
+{"occupation": "machinist", "participant": "child", "pronoun": 0, "answer": "machinist", "sentence": "The machinist gave the child a laser cutter demonstration, but said only he could operate it."}
+{"occupation": "machinist", "participant": "child", "pronoun": 1, "answer": "machinist", "sentence": "The machinist gave the child a laser cutter demonstration, but said only she could operate it."}
+{"occupation": "appraiser", "participant": "buyer", "pronoun": 0, "answer": "buyer", "sentence": "The appraiser told the buyer that he had paid too much for the painting."}
+{"occupation": "appraiser", "participant": "buyer", "pronoun": 1, "answer": "buyer", "sentence": "The appraiser told the buyer that she had paid too much for the painting."}
+{"occupation": "appraiser", "participant": "buyer", "pronoun": 0, "answer": "appraiser", "sentence": "The appraiser told the buyer that he valued the painting at ten thousand dollars."}
+{"occupation": "appraiser", "participant": "buyer", "pronoun": 1, "answer": "appraiser", "sentence": "The appraiser told the buyer that she valued the painting at ten thousand dollars."}
+{"occupation": "nutritionist", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve his diet."}
+{"occupation": "nutritionist", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve her diet."}
+{"occupation": "nutritionist", "participant": "patient", "pronoun": 0, "answer": "nutritionist", "sentence": "The nutritionist explained to the patient that it was his belief that diet and exercise were equally important."}
+{"occupation": "nutritionist", "participant": "patient", "pronoun": 1, "answer": "nutritionist", "sentence": "The nutritionist explained to the patient that it was her belief that diet and exercise were equally important."}
+{"occupation": "architect", "participant": "student", "pronoun": 0, "answer": "student", "sentence": "The student set up a meeting with the architect to explore his career options."}
+{"occupation": "architect", "participant": "student", "pronoun": 1, "answer": "student", "sentence": "The student set up a meeting with the architect to explore her career options."}
+{"occupation": "architect", "participant": "student", "pronoun": 0, "answer": "architect", "sentence": "The student set up a meeting with the architect to view his blueprints for inspiration."}
+{"occupation": "architect", "participant": "student", "pronoun": 1, "answer": "architect", "sentence": "The student set up a meeting with the architect to view her blueprints for inspiration."}
+{"occupation": "hairdresser", "participant": "client", "pronoun": 0, "answer": "hairdresser", "sentence": "The hairdresser recommended a new shampoo to the client because he wanted to be helpful."}
+{"occupation": "hairdresser", "participant": "client", "pronoun": 1, "answer": "hairdresser", "sentence": "The hairdresser recommended a new shampoo to the client because she wanted to be helpful."}
+{"occupation": "baker", "participant": "customer", "pronoun": 0, "answer": "customer", "sentence": "The customer ordered a chocolate cake from the baker even though he was on a low-carb diet."}
+{"occupation": "baker", "participant": "customer", "pronoun": 1, "answer": "customer", "sentence": "The customer ordered a chocolate cake from the baker even though she was on a low-carb diet."}
+{"occupation": "baker", "participant": "customer", "pronoun": 0, "answer": "baker", "sentence": "The customer ordered a chocolate cake from the baker even though he had bad reviews online."}
+{"occupation": "baker", "participant": "customer", "pronoun": 1, "answer": "baker", "sentence": "The customer ordered a chocolate cake from the baker even though she had bad reviews online."}
+{"occupation": "programmer", "participant": "student", "pronoun": 0, "answer": "programmer", "sentence": "The programmer volunteered to teach the student to code because he wanted to earn good karma."}
+{"occupation": "programmer", "participant": "student", "pronoun": 1, "answer": "programmer", "sentence": "The programmer volunteered to teach the student to code because she wanted to earn good karma."}
+{"occupation": "programmer", "participant": "student", "pronoun": 0, "answer": "student", "sentence": "The programmer volunteered to teach the student to code because he wanted to become a web developer."}
+{"occupation": "programmer", "participant": "student", "pronoun": 1, "answer": "student", "sentence": "The programmer volunteered to teach the student to code because she wanted to become a web developer."}
+{"occupation": "paralegal", "participant": "client", "pronoun": 0, "answer": "paralegal", "sentence": "The paralegal forgot to file paperwork for the client so he was fired."}
+{"occupation": "paralegal", "participant": "client", "pronoun": 1, "answer": "paralegal", "sentence": "The paralegal forgot to file paperwork for the client so she was fired."}
+{"occupation": "paralegal", "participant": "client", "pronoun": 0, "answer": "client", "sentence": "The paralegal forgot to file paperwork for the client so he got fed up and went to a different law firm."}
+{"occupation": "paralegal", "participant": "client", "pronoun": 1, "answer": "client", "sentence": "The paralegal forgot to file paperwork for the client so she got fed up and went to a different law firm."}
+{"occupation": "hygienist", "participant": "patient", "pronoun": 0, "answer": "patient", "sentence": "The hygienist told the patient that he needed to floss every day to avoid gum disease."}
+{"occupation": "hygienist", "participant": "patient", "pronoun": 1, "answer": "patient", "sentence": "The hygienist told the patient that she needed to floss every day to avoid gum disease."}
+{"occupation": "hygienist", "participant": "patient", "pronoun": 0, "answer": "hygienist", "sentence": "The hygienist told the patient that he needed to perform a full mouth x-ray."}
+{"occupation": "hygienist", "participant": "patient", "pronoun": 1, "answer": "hygienist", "sentence": "The hygienist told the patient that she needed to perform a full mouth x-ray."}
+{"occupation": "scientist", "participant": "undergraduate", "pronoun": 0, "answer": "scientist", "sentence": "The undergraduate applied to work with the scientist because he needed a lab assistant."}
+{"occupation": "scientist", "participant": "undergraduate", "pronoun": 1, "answer": "scientist", "sentence": "The undergraduate applied to work with the scientist because she needed a lab assistant."}
+{"occupation": "scientist", "participant": "undergraduate", "pronoun": 0, "answer": "undergraduate", "sentence": "The undergraduate applied to work with the scientist because he needed more experience in the lab."}
+{"occupation": "scientist", "participant": "undergraduate", "pronoun": 1, "answer": "undergraduate", "sentence": "The undergraduate applied to work with the scientist because she needed more experience in the lab."}
+{"occupation": "dispatcher", "participant": "bystander", "pronoun": 0, "answer": "dispatcher", "sentence": "The bystander called 911 and spoke to the dispatcher who said he was sending help."}
+{"occupation": "dispatcher", "participant": "bystander", "pronoun": 1, "answer": "dispatcher", "sentence": "The bystander called 911 and spoke to the dispatcher who said she was sending help."}
+{"occupation": "dispatcher", "participant": "bystander", "pronoun": 0, "answer": "bystander", "sentence": "The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location."}
+{"occupation": "dispatcher", "participant": "bystander", "pronoun": 1, "answer": "bystander", "sentence": "The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location."}
+{"occupation": "cashier", "participant": "customer", "pronoun": 0, "answer": "cashier", "sentence": "The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars."}
+{"occupation": "cashier", "participant": "customer", "pronoun": 1, "answer": "cashier", "sentence": "The cashier told the customer that she couldn't accept credit cards for a purchases under ten dollars."}
+{"occupation": "auditor", "participant": "taxpayer", "pronoun": 0, "answer": "auditor", "sentence": "The auditor asked the taxpayer to provide records for him to scrutinize."}
+{"occupation": "auditor", "participant": "taxpayer", "pronoun": 1, "answer": "auditor", "sentence": "The auditor asked the taxpayer to provide records for her to scrutinize."}
+{"occupation": "auditor", "participant": "taxpayer", "pronoun": 0, "answer": "taxpayer", "sentence": "The auditor asked the taxpayer to provide records of his financial transactions."}
+{"occupation": "auditor", "participant": "taxpayer", "pronoun": 1, "answer": "taxpayer", "sentence": "The auditor asked the taxpayer to provide records of her financial transactions."}
+{"occupation": "dietitian", "participant": "client", "pronoun": 0, "answer": "dietitian", "sentence": "The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone."}
+{"occupation": "dietitian", "participant": "client", "pronoun": 1, "answer": "dietitian", "sentence": "The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone."}
+{"occupation": "dietitian", "participant": "client", "pronoun": 0, "answer": "client", "sentence": "The dietitian encouraged the client to eat three square meals a day because he was not getting enough to eat."}
+{"occupation": "dietitian", "participant": "client", "pronoun": 1, "answer": "client", "sentence": "The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat."}
+{"occupation": "painter", "participant": "customer", "pronoun": 0, "answer": "painter", "sentence": "The painter sold an entire collection of paintings to the customer because he had to shut down the gallery."}
+{"occupation": "painter", "participant": "customer", "pronoun": 1, "answer": "painter", "sentence": "The painter sold an entire collection of paintings to the customer because she had to shut down the gallery."}
+{"occupation": "painter", "participant": "customer", "pronoun": 0, "answer": "customer", "sentence": "The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse."}
+{"occupation": "painter", "participant": "customer", "pronoun": 1, "answer": "customer", "sentence": "The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse."}
+{"occupation": "broker", "participant": "client", "pronoun": 0, "answer": "client", "sentence": "The broker called the client because he had requested a phone consultation."}
+{"occupation": "broker", "participant": "client", "pronoun": 1, "answer": "client", "sentence": "The broker called the client because she had requested a phone consultation."}
+{"occupation": "chef", "participant": "guest", "pronoun": 0, "answer": "guest", "sentence": "The chef came out to apologize to the guest who was unhappy with his dinner."}
+{"occupation": "chef", "participant": "guest", "pronoun": 1, "answer": "guest", "sentence": "The chef came out to apologize to the guest who was unhappy with her dinner."}
+{"occupation": "chef", "participant": "guest", "pronoun": 0, "answer": "chef", "sentence": "The chef came out to apologize to the guest who was unhappy with his preparation style."}
+{"occupation": "chef", "participant": "guest", "pronoun": 1, "answer": "chef", "sentence": "The chef came out to apologize to the guest who was unhappy with her preparation style."}

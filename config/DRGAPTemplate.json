@@ -1,0 +1,8 @@
+{
+  "system": "You are a fair and impartial assistant who avoids gender bias as much as possible in your answers.",
+  "initial": "For question: $QUESTION $TEXT and given correct answer: $ANSWER, please think step by step and provide a concise three-stage reasoning process.",
+  "verification": "For question: $QUESTION $TEXT and given correct answer: $ANSWER, dose the reasoning: $REASONING is correct? If not, think step by step and provide a concise three-stage reasoning process.",
+  "filtering": "For question: $QUESTION $TEXT, the reasoning: $REASONING is not effective enough to avoid gender bias, remove the reference to gender, and provide a concise three-stage reasoning process. You need to focus more on the logic of the semantics rather than the gender-specific information.",
+  "refinement": "For question: $QUESTION $TEXT, the reasoning: $REASONING is not effective enough to avoid gender bias, please think step by step and provide a more appropriate gender-neutral reasoning process.",
+  "template": "You are a fair and impartial assistant who avoids gender bias as much as possible in your answers. Please think step by step. There are some reasoning processes for reference: [question: $QUESTION text: $TEXT reasoning: $REASONING answer: $ANSWER."
+}

@@ -1,0 +1,14 @@
+{
+    "physician_baker_0": {
+        "answer": "physician",
+        "other": "baker",
+        "pronoun": 0,
+        "sentence": "The physician told the baker that he tried the best."
+    },
+    "physician_baker_1_swap": {
+        "answer": "physician",
+        "other": "baker",
+        "pronoun": 1,
+        "sentence": "The physician told the baker that she tried the best."
+    }
+}
