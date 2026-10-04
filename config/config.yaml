@@ -2,11 +2,11 @@ root:
 
 modelConfig:
   GPT:
-    key: sk-15sJqIBcfVXyKuHf47E25d859d854cFcAfF8E4B3756bFcB1
-    api: https://api.gpts.vin/v1
+    key: 
+    api:
   GPT3.5: gpt-3.5-turbo-0125
   GPT4: gpt-4-1106-preview
-  Llama3: /home/qhy/QAExpt/models/Meta-Llama-3-8B-Instruct
+  Llama3: 
   Llama2Alpaca: models/Alpaca_llama-2-naive-7b-hf
   Llama2Alpaca-dpo: models/llama-2_align_dpo
   Qwen2-vl:
