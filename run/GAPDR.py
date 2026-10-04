@@ -93,7 +93,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
-    # parser.add_argument("--function", type=str, default="reasoning")
+    parser.add_argument("--function", type=str, default="reasoning")
     parser.add_argument("--modelName", type=str, default="llama3")
     parser.add_argument("--deviceId", type=int, default=0)
     parser.add_argument("--datasetName", type=str, default="winobias")
